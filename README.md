@@ -8,4 +8,5 @@ A practice react app built with resuable components.
 ## To use:
 - `git clone https://github.com/kathleenfwang/reactpractice `  
 - `npm install `
+- `npm start`
 - open localhost:3000 !
