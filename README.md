@@ -1,4 +1,4 @@
-# React Practice App 
+# Practice React App 
 A practice react app built with resuable components. 
 ## Features: 
 - ToDo list with dynamic check box control
